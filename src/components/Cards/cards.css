@@ -1,0 +1,20 @@
+.title-film {
+    text-decoration: none;
+}
+ .img-search {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+
+}
+
+.img-caroussel {
+     border-radius: 10px;
+     margin-right: 50px;
+ }
+
+ hr {
+    margin: 50px 300px;
+ }

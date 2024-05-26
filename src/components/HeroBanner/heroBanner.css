@@ -1,0 +1,23 @@
+#text-center {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    color: cornsilk;
+    text-transform: uppercase;
+}
+
+#oui {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    width: 100%;
+    background-attachment: fixed;
+}
+
+header {
+    width: 100%;
+    padding: 1px;
+}
